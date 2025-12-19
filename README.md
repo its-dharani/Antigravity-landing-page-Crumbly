@@ -1,4 +1,4 @@
-# Exploring Vibe Coding Tools – Antigravity Bakery Landing Page
+# Exploring Vibe Coding Tools – Antigravity (Bakery Landing Page)
 
 This project is part of my exploration of **vibe coding tools** (AI-assisted platforms) that help generate frontend code quickly and creatively. For this experiment, I tried **Antigravity** to create a simple bakery (**Crumbly**, that's what I named it 😋) landing page using **HTML** and **CSS**.
 
@@ -13,11 +13,11 @@ This project is part of my exploration of **vibe coding tools** (AI-assisted pla
 - **CSS**
 
 ## About
-I used Antigravity to generate the initial code, then **reviewed it** to better understand how AI can assist in web development. The experience was **impressive and fun**, and it gave me insight into how vibe coding tools can speed up prototyping while still allowing creative control.
+I used Antigravity to generate the initial code, then reviewed it to better understand how AI can assist in web development. The experience was impressive and fun, surprising tbh, and it gave me insight into how vibe coding tools can speed up prototyping while still allowing creative control.
 
 ## Screenshots
 ![Screenshot](https://github.com/its-dharani/Antigravity-landing-page-Crumbly/blob/main/Crumbly%20landing%20page.png?raw=true)  
 *Example: Crumbly Bakery Landing Page*
 
 ## Live Demo
-Click here[here](https://its-dharani.github.io/Antigravity-landing-page-Crumbly/).
+[Cllick here](https://its-dharani.github.io/Antigravity-landing-page-Crumbly/).
