@@ -17,7 +17,6 @@ I used Antigravity to generate the initial code, then reviewed it to better unde
 
 ## Screenshots
 ![Screenshot](https://github.com/its-dharani/Antigravity-landing-page-Crumbly/blob/main/Crumbly%20landing%20page.png?raw=true)  
-*Example: Crumbly Bakery Landing Page*
 
 ## Live Demo
 [Cllick here](https://its-dharani.github.io/Antigravity-landing-page-Crumbly/).
